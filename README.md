@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+用Vue+Element+V-Charts写了一个小的样式，以后还会更新
