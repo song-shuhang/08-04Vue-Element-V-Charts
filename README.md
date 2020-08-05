@@ -24,5 +24,6 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 用Vue+Element+V-Charts写了一个小的样式，以后还会更新
-分支的样式发生了更改
-2132
+分支的样式发生改变
+
+我又切了一次分支，在尝试切换分支
