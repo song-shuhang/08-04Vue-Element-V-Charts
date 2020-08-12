@@ -1,10 +1,13 @@
 <template>
   <div id="Kchars"> 
      <ve-line :data="chartData" class="Kchars2"></ve-line>
+     
   </div>
+  
 </template>
 
 <script type="text/ecmascript-6">
+
   export default {
      data () {
       return {
@@ -20,6 +23,9 @@
           ]
         }
       }
+    },
+    components:{
+    
     }
   }
 </script>

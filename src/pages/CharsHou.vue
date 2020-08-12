@@ -12,7 +12,7 @@
 
 <script type="text/ecmascript-6">
  const DATA_FROM_BACKEND = {
-    columns: ['date', 'PV', 'Order'],
+    columns: ['date', 'PV', ''],
     rows: [
       { 'date': '2018-05-22', 'PV': 32371, 'Order': 19810 },
       { 'date': '2018-05-23', 'PV': 12328, 'Order': 4398 },

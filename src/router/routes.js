@@ -4,6 +4,9 @@ import Login from "../pages/Login.vue";
 import Chars from "../pages/Chars.vue";
 import CharsHou from "../pages/CharsHou.vue";
 
+//父子组件
+import Father from "../pages/Father.vue";
+
 export default[
   {
       path: '/home',
@@ -26,8 +29,12 @@ export default[
     component: CharsHou
   },
   {
-    path: '/',
-    redirect:'/home'
-  }
+    path: '/father',
+    component: Father
+  },
+  // {
+  //   path: '/',
+  //   redirect:'/home'
+  // }
 
 ]
